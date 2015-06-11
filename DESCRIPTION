@@ -1,0 +1,9 @@
+Package: xsystem
+Type: Package
+Title: System tools
+Version: 1.0.0
+Date: 2015-06-11
+Author: Roc Alabern
+Maintainer: Roc Alabern <roc.alabern@gmail.com>
+Description: A wrapper for simple system calls.
+License: GPL (>= 3)
